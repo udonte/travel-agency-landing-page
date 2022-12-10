@@ -1,3 +1,6 @@
+# About the Project:
+This is a landing page for a modern traveling website. Figma link: https://www.figma.com/file/chffWX8ZcWWgGzHwHW4fD4/Travel-Website-Landing-Page-(Community)?node-id=0%3A1&t=w00Z4l6oq7PSoRCu-0
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
